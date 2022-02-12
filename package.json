@@ -2,12 +2,7 @@
   "name": "gulp-browsersync",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-    "prod": "gulp buildProd",
-    "watch": "gulp watchDev",
-    "style": "gulp watchTest"
-  },
-  "author": "",
+  "author": "Antonin Avon",
   "license": "ISC",
   "devDependencies": {
     "bootstrap": "^5.1.3",
