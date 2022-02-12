@@ -1,6 +1,7 @@
 # Setup Gulp 4 + BrowserSync
 
-### Commencez par : `npm install`
+### Commencez par : `git clone https://github.com/Antonin06/BoilerPlate-Gulp.git your-folder-name`
+### Ensuite : `npm install`
 ### Supprimer le fichier `.git`
 
 ### Deux commandes disponible :
